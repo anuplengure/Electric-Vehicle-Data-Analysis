@@ -40,3 +40,36 @@ To analyze and visualize electric vehicle (EV) data across the United States usi
 
 •	Built an interactive dashboard using  all sheets.
 
+## Dashboard 
+![Dashboard](https://github.com/user-attachments/assets/0f89713d-888f-4ffb-9afe-0840edc6bb0b)
+
+
+## Project Insight
+
+•	Total Electric Vehicles analysed : 130,816, with 80.2% BEVs and 19.8% PHEVs.
+
+•	Average electric range across all vehicles: 73.10 miles.
+
+•	Significant growth in EV adoption observed post-2017, peaking in 2022 (23.6K vehicles).
+
+•	Tesla dominates the market with over 52.7% share, followed by Nissan (10.3%) and Chevrolet (9.2%).
+
+•	Top EV models: Tesla Model Y, Tesla Model 3, and Nissan Leaf together make up over 50% of total vehicles.
+
+•	Washington(WA)  leads EV adoption among U.S. states.
+
+•	Over 42.75% of vehicles are CAFV eligible.
+
+## Recommendations
+
+•	Policy makers should focus on expanding EV incentives and infrastructure in high-growth states like California and Washington.
+
+•	EV companies should prioritize service and compatibility with Tesla and Nissan vehicles due to their market dominance.
+
+•	Charging infrastructure providers should expand networks in states with high BEV density and recent growth (2020–2022).
+
+•	Promote CAFV eligibility awareness to encourage more consumers to purchase compliant vehicles and claim benefits.
+
+•	Monitor recent adoption dips (2023) for policy changes or data collection delays before forecasting future demand.
+
+
